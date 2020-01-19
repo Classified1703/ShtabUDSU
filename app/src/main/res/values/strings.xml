@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Студенческие Отряды УдГУ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Галерея</string>
+    <string name="video">Видео</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="vk">ВК</string>
+    <string name="instagram">Instagram</string>
+    <string name="other">Российские Студенческие Отряды» (РСО) –
+        \nза этими тремя буквами стоит многолетняя история.
+        \nАктивная молодёжь, яркие мероприятия, зелёные куртки, песни под гитару, душевные традиции.
+        \nВсё это мы – студенческие отряды. На данный момент в штабе УдГУ функционирует 16 перспективных студенческих отрядов.
+        \nСтуденты проходят обучение по четырём направлениям, чтобы в дальнейшем трудоустроиться и выехать летом на целину.
+        \n«Целиной» мы называем летний период, когда строители отправляются на всероссийские стройки,
+        проводники покорять просторы железных дорог, вожатые в летние лагеря, а сервисные отряды в приморские города.
+
+        \nЕсли ты хочешь стать частью крупнейшей молодежной организации страны,
+        заработать в летний период или ищешь новые знакомства и яркие впечатления – тебе к нам!
+        \n\nНас можно найти на 6 этаже 6 корпуса в 606 аудитории.
+        \n\nА если ты любишь говорить по телефону, то Кристина с радостью ответит на все твои вопросы: 8-922-681-18-02
+        \n\nСтуденческие годы – отдельная, особенная жизнь.
+        \nА отряды помогут сделать её незабываемой!
+    </string>
+    <string name="thirt_fragment">Thirt Fragment</string>
+    <string name="name">Штаб Студенческих Отрядов УдГУ</string>
+    <string name="email">so-udsu@mail.ru</string>
+    <string name="title_activity_login">Вход</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name= "action_sign_in">Войдите или зарегистрируйтесь</string>
+    <string name= "action_sign_in_short">Войдите в</string>
+    <string name= "error_invalid_email" >Этот адрес электронной почты недопустим</string>
+    <string name= "error_invalid_password">Этот пароль слишком короткий</string>
+    <string name= "error_incorrect_password">Этот пароль неверен</string>
+    <string name= "error_field_required">Это поле является обязательным</string>
+    <string name= "permission_rationale">Contacts permissions are needed for providing email completions.</string>
+    <string name="social">Социальные сети</string>
+    <string name="audio_rso">Песни РСО</string>
+    <string name="request">Заявка на вступление</string>
+    <string name="DOREWIND"><![CDATA[<<]]></string>
+    <string name="FASTFORWARD"><![CDATA[>>]]></string>
+    <string name="main_name">ШСО УдГУ</string>
+    <string name="galer">Галерея</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo3">TODO</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+    </string-array>
+</resources>
